@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="AccountCreation/AccountCreation.csproj" />
+  <Project Path="Albums/Albums.csproj" />
   <Project Path="Ships/Ships.csproj" />
 </Solution>

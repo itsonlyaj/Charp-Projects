@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountCreation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a26e67681f0eb32081ee3d04a4d7791df87f1093")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e253deb3379569664890d6e6e8aa142eff69e347")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountCreation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountCreation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

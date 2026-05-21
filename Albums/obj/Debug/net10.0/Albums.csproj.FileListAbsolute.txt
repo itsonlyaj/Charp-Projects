@@ -1,0 +1,15 @@
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\bin\Debug\net10.0\Albums.exe
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\bin\Debug\net10.0\Albums.deps.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\bin\Debug\net10.0\Albums.runtimeconfig.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\bin\Debug\net10.0\Albums.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\bin\Debug\net10.0\Albums.pdb
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.AssemblyInfoInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.AssemblyInfo.cs
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.csproj.CoreCompileInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.sourcelink.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\refint\Albums.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.pdb
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\Albums.genruntimeconfig.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Albums\obj\Debug\net10.0\ref\Albums.dll

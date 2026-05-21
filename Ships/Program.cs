@@ -7,6 +7,7 @@ class Program
         // The total amount of ships that will be in the array.
         int totalShips = 6;
 
+
         Ship[] ships = new Ship[totalShips];
 
         // Stores each ship object into an array.
