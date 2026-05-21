@@ -1,0 +1,15 @@
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.AssemblyInfoInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.AssemblyInfo.cs
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.csproj.CoreCompileInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.sourcelink.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\bin\Debug\net10.0\Ships.exe
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\bin\Debug\net10.0\Ships.deps.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\bin\Debug\net10.0\Ships.runtimeconfig.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\bin\Debug\net10.0\Ships.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\bin\Debug\net10.0\Ships.pdb
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\refint\Ships.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.pdb
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\Ships.genruntimeconfig.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\Ships\obj\Debug\net10.0\ref\Ships.dll

@@ -1,7 +1,6 @@
 using Ships;
-using System.Runtime.CompilerServices;
 
-namespace CruiseShip;
+namespace Ships;
 
 public class CruiseShip : Ship
 {
@@ -14,7 +13,7 @@ public class CruiseShip : Ship
     /// <param name="yearBuilt"></param>
     /// <param name="name"></param>
     /// <param name="maxPassengers"></param>
-    public CruiseShip(int decommissoned, string yearBuilt, string name, int maxPassengers) : base(decommissoned, yearBuilt, name)
+    public CruiseShip(string yearBuilt, string name, int maxPassengers) : base(yearBuilt, name)
     {
         MaxPassengers = maxPassengers;
     }

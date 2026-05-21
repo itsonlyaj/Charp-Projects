@@ -1,12 +1,13 @@
 using System.ComponentModel;
 
+// If you want to relate something to another class, you must change the name for the namespace.
 namespace Ships;
 
-public abstract class Ship
+public class Ship
 {
-    private int Decommissoned {get; set;}
-    private string YearBuilt {get; set;}
-    private string Name {get; set;}
+    public int Decommissoned {get; private set;}
+    public string YearBuilt {get;  private set;}
+    public string Name {get; private set;}
 
     /// <summary>
     /// Instance of a ship.
@@ -14,11 +15,16 @@ public abstract class Ship
     /// <param name="yearBuilt"></param>
     /// <param name="decommissoned"></param>
     /// <param name="name"></param>
-    public Ship(int decommissoned, string yearBuilt, string name)
+    public Ship(string yearBuilt, string name)
     {
-        Decommissoned = decommissoned;
         YearBuilt = yearBuilt;
         Name = name;
+        Decommissoned = 0;
+    }
+
+    public void Decommissoined(int year)
+    {
+        Decommissoned = year;
     }
 
     /// <summary>
