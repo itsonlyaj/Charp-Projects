@@ -1,0 +1,15 @@
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\bin\Debug\net10.0\PaintJob.exe
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\bin\Debug\net10.0\PaintJob.deps.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\bin\Debug\net10.0\PaintJob.runtimeconfig.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\bin\Debug\net10.0\PaintJob.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\bin\Debug\net10.0\PaintJob.pdb
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.AssemblyInfoInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.AssemblyInfo.cs
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.csproj.CoreCompileInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.sourcelink.json
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\refint\PaintJob.dll
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.pdb
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\PaintJob.genruntimeconfig.cache
+C:\Users\ajwoo\OneDrive\Documents\Programming Practice\RandomChapProjects\Charp-Projects\PaintJob\obj\Debug\net10.0\ref\PaintJob.dll
