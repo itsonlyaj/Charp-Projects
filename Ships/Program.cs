@@ -23,7 +23,7 @@ class Program
         ships[5] = new CargoShip("2013", "Maersk Mc-Kinney Moller", 194000);
 
         // Outputs the ship information into the console.
-        // NOTE: The first two ships will display twice, I will fox that in the future.
+        // NOTE: The first two ships will display twice, I will fix that in the future.
         foreach (Ship ship in ships)
         {
             if (ship is CruiseShip cruiseShip)
