@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj": {}
+    "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj": {
+    "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj",
+        "projectUniqueName": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj",
         "projectName": "PaintJob",
-        "projectPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj",
+        "projectPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\PaintJob\\PaintJob.csproj",
         "packagesPath": "C:\\Users\\ajwoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\PaintJob\\obj\\",
+        "outputPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\PaintJob\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

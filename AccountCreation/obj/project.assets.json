@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\AccountCreation\\AccountCreation.csproj",
+      "projectUniqueName": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\AccountCreation\\AccountCreation.csproj",
       "projectName": "AccountCreation",
-      "projectPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\AccountCreation\\AccountCreation.csproj",
+      "projectPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\AccountCreation\\AccountCreation.csproj",
       "packagesPath": "C:\\Users\\ajwoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\Programming Practice\\RandomChapProjects\\Charp-Projects\\AccountCreation\\obj\\",
+      "outputPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\AccountCreation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

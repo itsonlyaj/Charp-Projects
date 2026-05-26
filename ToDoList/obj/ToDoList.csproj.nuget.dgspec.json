@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\Albums\\Albums.csproj": {}
+    "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\Albums\\Albums.csproj": {
+    "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\Albums\\Albums.csproj",
-        "projectName": "Albums",
-        "projectPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\Albums\\Albums.csproj",
+        "projectUniqueName": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\ToDoList\\ToDoList.csproj",
+        "projectName": "ToDoList",
+        "projectPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\ajwoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\Albums\\obj\\",
+        "outputPath": "C:\\Users\\ajwoo\\OneDrive\\Documents\\ProgrammingPractice\\RandomChapProjects\\Charp-Projects\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

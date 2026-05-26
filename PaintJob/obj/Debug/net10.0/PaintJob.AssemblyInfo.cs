@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaintJob")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b13a13bb9018068c2f827c04def75998a0f8ae10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371e301ce37a7fad7b2c306480ba466ca56327aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaintJob")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaintJob")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
