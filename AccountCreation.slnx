@@ -4,5 +4,7 @@
   <Project Path="Car/Car.csproj" />
   <Project Path="Items/Items.csproj" />
   <Project Path="PaintJob/PaintJob.csproj" />
+  <Project Path="PetManagementSystem/PetManagementSystem.csproj" />
   <Project Path="Ships/Ships.csproj" />
+  <Project Path="StudentSystem/StudentSystem.csproj" />
 </Solution>
