@@ -4,8 +4,9 @@ namespace StudentSystem;
 
 class Program
 {
-    static List<Student> students = new List<Student>();
+    static List<Student> students = new List<Student>();    // Creates a list from the student class.
 
+    
     static void Main(string[] args)
     {
         string input;
@@ -48,6 +49,9 @@ class Program
         }
     }
 
+    /// <summary>
+    /// Method that will ask the user to create a student 
+    /// </summary>
     static void CreateStudent()
     {
         Console.Write("Enter the students name: ");
@@ -68,12 +72,20 @@ class Program
         Console.Write("Enter the students address: ");
         string address = Console.ReadLine();
 
+        /*
+        After all information about the student has been entered, the program will create an object from the student class
+        and store all of the information the user entered into that object and create a new list based off the information
+        that the user entered.
+        */
         Student student = new Student(name, age, gradeYear, gpa, phoneNumber, address);
         students.Add(student);
         
         Console.WriteLine();
     }
 
+    /// <summary>
+    /// Method that will display the students information.
+    /// </summary>
     static void DisplayStudent()
     {
         Console.Write("=============================");
@@ -85,6 +97,9 @@ class Program
         Console.WriteLine();
     }
 
+    /// <summary>
+    /// Will convert the students information if their name exists in the list.
+    /// </summary>
     static void ConvertGPA()
     {
         bool convertRunning = true;
@@ -116,13 +131,108 @@ class Program
         }  
     }
 
+    /// <summary>
+    /// Will edit the students information in the list.
+    /// </summary>
     static void EditStudent()
     {
-        
+       bool edit = true;
+       string nameInput;
+       bool found = false;
+
+       while (edit)
+        {
+            Console.Write("Enter the name of the student you would like to edit: ");
+            nameInput = Console.ReadLine();
+
+            // Loops through to see if the student exists in the list.
+            foreach (var editStudent in students)
+            {
+                if (editStudent.Name == nameInput)
+                {
+                    found = true;
+
+                    Console.Write("Enter the new name of the student: ");
+                    string newName = Console.ReadLine();
+
+                    Console.Write("Enter the new age of the student: ");
+                    int newAge = Convert.ToInt32(Console.ReadLine());
+
+                    Console.Write("Enter the new student's grade year: ");
+                    string newGradeYear = Console.ReadLine();
+
+                    Console.Write("Enter the new student's GPA: ");
+                    double newGpa = Convert.ToDouble(Console.ReadLine());
+
+                    Console.Write("Enter the new student's phone number: ");
+                    string newPhoneNumber = Console.ReadLine();
+
+                    Console.Write("Enter the new student's address: ");
+                    string newAddress = Console.ReadLine();
+
+                    /*
+                    Once the student has been found, and all information has been entered. It will override all of the
+                    previous information with the new information that the user entered.
+                    */
+                    editStudent.Name = newName;
+                    editStudent.Age = newAge;
+                    editStudent.GradeYear = newGradeYear;
+                    editStudent.Gpa = newGpa;
+                    editStudent.PhoneNumber = newPhoneNumber;
+                    editStudent.Address = newAddress;
+
+                    Console.WriteLine("Student has been updated.");
+                    break;
+                }
+            }
+
+            if (!found)
+            {
+                found = false;  // Will return false if a certain name doesn't exist in the list.
+                Console.WriteLine($"{nameInput} does not exists in the list!");
+            }
+
+            edit = false;
+        }      
     }
 
+    /// <summary>
+    /// Deletes the student.
+    /// </summary>
     static void DeleteStudent()
     {
-        
+        bool delete = true;
+        string nameInput;
+        bool found = false;
+
+        while (delete)
+        {
+            Console.Write("Enter the name of the student you would like to delete: ");
+            nameInput = Console.ReadLine();
+
+            // Loops through to find the student in the list.
+            foreach (var deleteStudent in students)
+            {
+                if (deleteStudent.Name == nameInput)
+                {
+                    found = true;
+
+                    students.Remove(deleteStudent); // If the student is found, they will be deleted from the list.
+
+                    Console.WriteLine("Student has been deleted!");
+                    
+                    break;
+                }
+            }
+
+            if (!found)
+            {
+                found = false;
+
+                Console.WriteLine("Student does not exist!");
+            }
+
+            delete = false;
+        }
     }
 }

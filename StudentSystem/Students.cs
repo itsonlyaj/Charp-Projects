@@ -31,6 +31,9 @@ public class Student
         Address = address;
     }
 
+   /// <summary>
+   /// Prints the students information
+   /// </summary>
     public void PrintStudent()
     {
         Console.WriteLine();
@@ -44,6 +47,9 @@ public class Student
         Console.WriteLine("----------------------------");
     }
 
+   /// <summary>
+   /// Converts the students GPA to a letter grade.
+   /// </summary>
     public void GPAToLetterGrade()
     {
         if (Gpa >= 4.3)
