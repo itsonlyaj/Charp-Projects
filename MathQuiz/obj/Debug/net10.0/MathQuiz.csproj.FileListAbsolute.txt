@@ -1,0 +1,15 @@
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\bin\Debug\net10.0\MathQuiz.exe
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\bin\Debug\net10.0\MathQuiz.deps.json
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\bin\Debug\net10.0\MathQuiz.runtimeconfig.json
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\bin\Debug\net10.0\MathQuiz.dll
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\bin\Debug\net10.0\MathQuiz.pdb
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.AssemblyInfoInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.AssemblyInfo.cs
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.sourcelink.json
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.dll
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\refint\MathQuiz.dll
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.pdb
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\MathQuiz.genruntimeconfig.cache
+C:\Users\ajwoo\OneDrive\Documents\ProgrammingPractice\RandomChapProjects\Charp-Projects\MathQuiz\obj\Debug\net10.0\ref\MathQuiz.dll
